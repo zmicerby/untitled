@@ -57,6 +57,7 @@ public class zanytie3 {
             }
             System.out.println();
         }
+        System.out.println("hello");
 
     }
 }
